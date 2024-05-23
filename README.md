@@ -12,5 +12,5 @@ Projeto desenvolvido para fins de estuado.
 
 <div style="display: flex"><br/>
 <img align="center" alt="fiatcar1"src="https://github.com/muriloalvesx/FIATCAR-Projeto/assets/153781890/05e1ffcf-5190-473d-8f92-42deb3a2fb6f" width="400px"/>
-<img align="center" alt="fiatcar2"src="https://github.com/muriloalvesx/Gessilene-Portfolio/assets/153781890/e8c250ed-2cab-4c85-8450-9bd648f0bcfb" width="410px"/>
+<img align="center" alt="fiatcar2 "src="https://github.com/muriloalvesx/Gessilene-Portfolio/assets/153781890/e8c250ed-2cab-4c85-8450-9bd648f0bcfb" width="410px"/>
 </div><br/>
