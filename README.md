@@ -1,6 +1,6 @@
 ## FIATCAR - WebSite Para Estudo 📒
 
-Projeto desenvolvido para fins de estuado.
+Projeto desenvolvido para fins de estusdo.
 
 ### Tecnologias Utilizadas
 
